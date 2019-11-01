@@ -2,15 +2,7 @@
 
 A new Flutter application.
 
-## Getting Started
+[Live Demo](https://fir-c4a66.firebaseapp.com/#/)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Referance Design by [Mayur Kshirsagar](https://www.uplabs.com/posts/design-tool-website) from [![tag-imag](https://www.uplabs.com/logos/uplabs/default--color.svg)](https://dribbble.com)
+<img width="100%" alt="portfolio_view" src="https://github.com/ravi84184/Flutter-Web-Design-1/blob/master/assets/ss.png">    
